@@ -158,7 +158,7 @@ characters = {
 				small = GFX_Portrait_Soviet_Generic_land_4_small
 			}
 		}
-		field_marshal = {
+		corps_commander = {
 			traits = {  politically_connected armor_officer  }
 			skill = 3
 			attack_skill = 3
@@ -178,7 +178,7 @@ characters = {
 				small = GFX_Portrait_Soviet_Generic_land_7_small
 			}
 		}
-		field_marshal = {
+		corps_commander = {
 			traits = {  ambusher infantry_leader  }
 			skill = 3
 			attack_skill = 2
